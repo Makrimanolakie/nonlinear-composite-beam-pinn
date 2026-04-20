@@ -3,7 +3,7 @@
 **From Euler–Bernoulli to Mixed Physics-Informed Neural Networks**  
 FSDT · ABD Laminates · von Kármán Nonlinearity · FEM · Standard PINN · Mixed PINN · FD-PINN
 
-**Emmanouela [Surname] · NTUA Athens · Preprint 2025**
+**Emmanouela [Surname] · NCSR Demokritos · Preprint 2026**
 
 ## ✨ Τι περιλαμβάνει το repo
 
